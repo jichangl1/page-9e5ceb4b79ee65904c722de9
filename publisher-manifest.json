@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "781f5d58d145402fcf15c284",
+  "owner": "jichangl1",
+  "repo": "page-9e5ceb4b79ee65904c722de9",
+  "title": "扶摇云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "9e5ceb4b79ee65904c722de9",
+      "a": "扶摇云",
+      "b": "2027官方最新地址导航",
+      "entity": "扶摇云",
+      "brand": "扶摇云",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "b624bf58e46f2ed653a9055ce28ef71465d56f7d3801986205ccdbe954b2296e",
+      "content": {
+        "primary_entity": "扶摇云",
+        "keyword1": "扶摇云",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择对应客户端，导入订阅后即可使用。",
+          "AI_CLIENTS_TITLE": "设备客户端选择",
+          "AI_CLOSING_TEXT": "扶摇云让跨区访问更简单，选好套餐后按客户端文档配置订阅即可。",
+          "AI_CLOSING_TITLE": "开始使用扶摇云",
+          "AI_DESCRIPTION": "，以套餐流量、设备在线数和线路类型为对比核心，基础版适合轻度跨区访问，旗舰版面向多设备流媒体与游戏加速，团队版提供高带宽节点与企业定制路由。年付方案在月付价格基础上进一步降低月均成本，订阅导入后按客户端文档完成配置即可。",
+          "AI_FEATURES_INTRO": "从套餐对比到设备配置，三步完成订阅使用。",
+          "AI_FEATURES_TITLE": "套餐与配置特点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB 流量、3 台设备，适合轻度跨区浏览；旗舰版 300GB、5 台设备，覆盖流媒体与游戏场景。",
+          "AI_FEATURE_TEXT_2": "年付方案降低月均成本，旗舰版年付 ¥350、团队版年付 ¥850，适合长期稳定使用的个人或团队。",
+          "AI_FEATURE_TEXT_3": "订阅导入后无需重复配置，同一账号可在支持的设备上按套餐上限切换使用。",
+          "AI_FEATURE_TITLE_1": "按需选套餐",
+          "AI_FEATURE_TITLE_2": "年付更划算",
+          "AI_FEATURE_TITLE_3": "多端订阅同步",
+          "AI_GUIDE_INTRO": "选择套餐、核对设备数量、下载客户端并导入订阅三步完成配置。",
+          "AI_GUIDE_TITLE": "扶摇云使用步骤",
+          "AI_HERO_INTRO": "扶摇云提供基础版、旗舰版与团队版三档海外加速订阅，覆盖 3 至 20 台设备在线需求。月付与年付均可选，旗舰版与团队版支持流媒体解锁、专线游戏加速及高带宽节点，适合个人多设备与团队协作场景。",
+          "AI_HERO_SUBTITLE": "多档套餐，按设备数灵活选择",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖 3 至 20 台设备",
+          "AI_HIGHLIGHT_2": "旗舰版支持流媒体与游戏加速",
+          "AI_HIGHLIGHT_3": "年付方案降低月均使用成本",
+          "AI_PLANS_INTRO": "对比各档流量、设备数与权益，按实际使用规模选择月付或年付。",
+          "AI_PLANS_TITLE": "扶摇云套餐对比",
+          "AI_STEP_TEXT_1": "根据设备数量和流量需求选择基础版、旗舰版或团队版，并按月付或年付结算。",
+          "AI_STEP_TEXT_2": "核对套餐支持的设备在线数与线路类型，确认满足日常跨区访问或团队协作需要。",
+          "AI_STEP_TEXT_3": "下载对应平台客户端，导入订阅链接后按客户端文档完成代理配置。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "扶摇云海外加速",
+          "AI_FAQ_ANSWER_1": "基础版 100GB 适合 1 至 3 台设备轻度使用；旗舰版 300GB 配 5 台设备，适合流媒体与游戏；团队版 1000GB 支持 20 台设备，适合团队协作。",
+          "AI_FAQ_ANSWER_2": "同一套餐内设备数按在线数计算，基础版 3 台、旗舰版 5 台、团队版 20 台。超出后可减少同时在线设备或升级套餐。",
+          "AI_FAQ_ANSWER_3": "支持按年付，基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年，比月付节省一定费用，适合长期稳定使用。",
+          "AI_FAQ_ANSWER_4": "旗舰版含 IPLC 专线游戏加速优化，普通线路节点池位于基础版。团队版提供 VIP 专属高带宽节点，多人共用更顺畅。",
+          "AI_FAQ_ANSWER_5": "在客户端中新建订阅并粘贴链接，更新节点列表后选择延迟较低的节点连接。不同客户端菜单名称不同，可参考对应文档操作。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "基础版、旗舰版、团队版怎么选？",
+          "AI_FAQ_QUESTION_2": "一个套餐能同时登录几台设备？",
+          "AI_FAQ_QUESTION_3": "支持按年付吗，年付划算吗？",
+          "AI_FAQ_QUESTION_4": "流媒体和游戏加速在哪个套餐？",
+          "AI_FAQ_QUESTION_5": "订阅链接怎么导入客户端？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "qwejgag.cn",
+    "host": "qwejgag.cn"
+  },
+  "file_hashes": {
+    "index.html": "2e1be121f5ca48a1d1976b5d2239ee4d7a316e3d2c75dddd622575a3270c710d",
+    "sitemap.xml": "1f6f4de11dc39f8e0065aa1045c97fb7c729201c3e947f70d9808c0fd830a49e",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "e70b8b9fcb362c4725d6197e03d60857abbac7dc4d77c6975ff9710054204bf0",
+    "robots.txt": "035df89f94502bdc6d14b24a1f13c95f28e476be83040fc5e22102614c968833",
+    "a154419aa3fe674852073bb0ab2550d0.txt": "e7876ec69e9d08f9385a9dc0ef6d3f27b53c2917d18479e2defd6bb91406881a"
+  },
+  "revision": "6a6ab0b8d6e1375e89eceadd8844b9c87b9e9fc21a0fb743a3ba8a1d3c2a980e"
+}
